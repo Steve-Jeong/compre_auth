@@ -1,8 +1,5 @@
-import Image from "next/image";
-import { Button } from "@nextui-org/react";
-
 export default function Home() {
   return (
-    <Button>Home Page Button</Button>
-  );
+    <h1 className="text-3xl font-bold">Home</h1>
+  )
 }
