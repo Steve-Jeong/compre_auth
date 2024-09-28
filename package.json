@@ -9,11 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nextui-org/react": "^2.4.8",
     "@prisma/client": "5.19.1",
     "bcrypt": "^5.1.1",
     "chalk": "^5.3.0",
-    "framer-motion": "^11.5.4",
     "next": "14.2.8",
     "next-auth": "^4.24.7",
     "react": "^18",
@@ -25,6 +23,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "daisyui": "^4.12.10",
     "eslint": "^8",
     "eslint-config-next": "14.2.8",
     "postcss": "^8",
